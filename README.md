@@ -3,7 +3,7 @@
 ![Watch Better logo](src/assets/watchbetter-logo.png)
 
 [![Download Watch Better](https://img.shields.io/badge/Download-v0.1.0-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/wasely/watch-better/releases/download/v0.1.0/watchbetter-0.1.0-chrome.zip)
-[![Join the Watch Better Discord](https://img.shields.io/badge/Discord-Join-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zEB4VjmfSb)
+[![Join the blix open source Discord](https://img.shields.io/badge/Discord-Join-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJfHQXfEMM)
 [![MIT License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 [![Build status](https://img.shields.io/github/actions/workflow/status/wasely/watch-better/ci.yml?branch=main&style=for-the-badge&label=Build)](https://github.com/wasely/watch-better/actions/workflows/ci.yml)
 
@@ -221,7 +221,13 @@ watch-better/
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). Chrome Web Store preparation is tracked in
 [docs/CHROME_WEB_STORE.md](docs/CHROME_WEB_STORE.md). For questions and feedback,
-[join the Watch Better Discord](https://discord.gg/zEB4VjmfSb).
+[join the blix open source Discord](https://discord.gg/wJfHQXfEMM).
+
+## Community and contributing
+
+[![Join the contributor Discord](https://img.shields.io/badge/Discord-Join%20the%20open%20source%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/wJfHQXfEMM)
+
+**Want to send a PR? Join the [blix open source Discord](https://discord.gg/wJfHQXfEMM) first.** It's the one server for everyone contributing to any blixvip repo: questions, ideas, PR discussion, help, and release news.
 
 ## License
 
