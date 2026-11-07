@@ -3,7 +3,7 @@
 ![Watch Better logo](src/assets/watchbetter-logo.png)
 
 [![Download Watch Better](https://img.shields.io/badge/Download-v0.1.0-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/wasely/watch-better/releases/download/v0.1.0/watchbetter-0.1.0-chrome.zip)
-[![Join the blix open source Discord](https://img.shields.io/badge/Discord-Join-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJfHQXfEMM)
+[![Join the blix open source Discord](https://img.shields.io/badge/Discord-Join-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/grokbot)
 [![MIT License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 [![Build status](https://img.shields.io/github/actions/workflow/status/wasely/watch-better/ci.yml?branch=main&style=for-the-badge&label=Build)](https://github.com/wasely/watch-better/actions/workflows/ci.yml)
 
@@ -221,13 +221,24 @@ watch-better/
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). Chrome Web Store preparation is tracked in
 [docs/CHROME_WEB_STORE.md](docs/CHROME_WEB_STORE.md). For questions and feedback,
-[join the blix open source Discord](https://discord.gg/wJfHQXfEMM).
+[join the blix open source Discord](https://discord.gg/grokbot).
+
+<!-- discord-incentive:start -->
+### 💬 Why join the Discord first
+
+**[discord.gg/grokbot](https://discord.gg/grokbot)** is the one server for every blixvip repo, and it gets you more than a chat window:
+
+- 🟢 **Claim an issue and it is yours.** Say which one in `#contributors` and it is assigned to you, so two people never build the same thing twice.
+- 🏷️ **A contributor role** on the server the moment your first pull request is merged.
+- 🗺️ **A say in what gets built.** The roadmap is argued out there before it turns into issues.
+- 🙋 **A human to ask.** Stuck on setup, or unsure whether an idea is even wanted? Faster than waiting on an issue thread.
+<!-- discord-incentive:end -->
 
 ## Community and contributing
 
-[![Join the contributor Discord](https://img.shields.io/badge/Discord-Join%20the%20open%20source%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/wJfHQXfEMM)
+[![Join the contributor Discord](https://img.shields.io/badge/Discord-Join%20the%20open%20source%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/grokbot)
 
-**Want to send a PR? Join the [blix open source Discord](https://discord.gg/wJfHQXfEMM) first.** It's the one server for everyone contributing to any blixvip repo: questions, ideas, PR discussion, help, and release news.
+**Want to send a PR? Join the [blix open source Discord](https://discord.gg/grokbot) first.** It's the one server for everyone contributing to any blixvip repo: questions, ideas, PR discussion, help, and release news.
 
 ## License
 
