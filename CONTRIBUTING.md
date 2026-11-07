@@ -1,6 +1,6 @@
 # Contributing to Watch Better
 
-> 💬 **Before you open a PR, join the [blix open source Discord](https://discord.gg/wJfHQXfEMM).** It's the home for contributors across every blixvip repo: ask questions, run ideas by us, and talk through your PR.
+> 💬 **Before you open a PR, join the [blix open source Discord](https://discord.gg/grokbot).** It's the home for contributors across every blixvip repo: ask questions, run ideas by us, and talk through your PR.
 
 Bug fixes, provider compatibility updates, accessibility improvements, and focused
 documentation changes are welcome.
